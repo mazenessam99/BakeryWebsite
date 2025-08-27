@@ -37,7 +37,14 @@
 * 🎨 Responsive Layout — optimized for **mobile, tablet, and desktop**.
 * 🔍 SEO & Open Graph — meta tags and OG placeholders for better search and social sharing.
 * 🖼  Lazy-loaded Images — improves page speed and performance.
+* 🌙 Dark and 🌞 Light Mode 
 
+---
+📌 Future Improvements
+
+🛒 Add shopping cart system
+✨ Product Details for products
+🖥 Connect to a backend (Node.js )
 ---
 
 ## Demo
