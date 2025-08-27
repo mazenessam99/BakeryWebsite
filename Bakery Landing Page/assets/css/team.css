@@ -1,0 +1,7 @@
+.team__hero {
+    background-image: url(/assets/imgs/team1.jpg);
+    background-position: inherit;
+    background-size: cover;
+    margin-top:5.375rem;
+    height: 30rem;
+}

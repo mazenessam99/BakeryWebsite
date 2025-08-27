@@ -1,0 +1,47 @@
+.contact__hero {
+    background-image: url(/assets/imgs/contact.avif);
+    background-position: center;
+    background-size: cover;
+    margin-top:5.375rem;
+    height: 18.75rem;
+}
+
+.contact__hero h1 {
+    width: fit-content;
+    color: var(--ph-brown);
+}
+
+.contact__info__card {
+    background-color: var(--ph-brown);
+    cursor: pointer;
+}
+
+form h1,
+label {
+    color: var(--ph-brown);
+}
+
+
+input:focus,
+textarea:focus,
+select:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: var(--ph-brown) !important;
+}
+
+.form-control{
+    border: 1px solid var(--ph-brown);
+}
+
+body.dark__theme .form-control {
+    border-color: inherit;
+}
+
+.sendBtn {
+    background-color: var(--ph-brown);
+}
+.sendBtn:hover,
+.contact__info__card:hover {
+    background-color: var(--ph-gold);
+}
